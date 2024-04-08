@@ -1,10 +1,10 @@
-# Clarity AI
+# Friendly Bot
 
-Clarity is simple [perplexity.ai](https://www.perplexity.ai/) clone. Use the code for whatever you like! :)
+Friendly Bot is simple [perplexity.ai](https://www.perplexity.ai/) clone. Use the code for whatever you like! :)
 
 If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
 
-[![Clarity AI](./public/screenshot.png)](https://clarity-ai.vercel.app/)
+[![Friendly Bot](./public/screenshot.png)](https://clarity-ai.vercel.app/)
 
 ## How It Works
 
